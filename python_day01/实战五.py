@@ -6,11 +6,10 @@ P=python
 E=English
 C=c语言
 S=P-E
-print('1、Python和English之间分差为')
-print(S)
+V=(P+E+C)/3
+print('1、Python和English之间分差为:%s分'%S)
 print('-------------------------------------')
-Ver=(P+E+C)/3
-print('2、三门课程平均分为')
-print(Ver)
+print('2、三门课程平均分为:%s分'%V)
+
 
 
